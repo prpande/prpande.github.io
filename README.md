@@ -13,7 +13,11 @@ Welcome to my GitHub portfolio! This repository serves as a showcase of my proje
 
 ## About Me
 
-I am a passionate software developer with a deep interest in system engineering, machine learning, automation and robotics. My goal is to create meaningful and innovative solutions that solve real-world problems. I am constantly learning and exploring new technologies to stay up-to-date with industry trends.
+Technophile with 10+ years in software engineering. Experienced in system design, distributed systems, backend development, dev-ops and cloud technologies. Expert in C#, C/C++, .Net technologies and Azure ecosystem.
+
+I also like to dabble in game development, IoT, home automation, ML and AI from time to time with a soft spot for robotics and computer vision.
+
+My goal is to create meaningful and innovative solutions that solve real-world problems. I am constantly learning and exploring new technologies to stay up-to-date with industry trends.
 
 ## Projects
 
